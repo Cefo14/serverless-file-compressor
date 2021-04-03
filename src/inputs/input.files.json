@@ -1,0 +1,8 @@
+{
+  "files": [
+    {
+      "fileName": "FILE.EXT",
+      "url": "https://[BUKET].s3.amazonaws.com/[KEY]"
+    }
+  ]
+}
